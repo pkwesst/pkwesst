@@ -1,16 +1,12 @@
-### Hi there 👋
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=PKWESST&fontSize=90)
+  <br>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkwesst&show_icons=true&theme=graywhite)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkwesst&theme=graywhite)
+  <br>
+  <h1></h1>
+  <br>
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=pkwesst@gmail.com" target="_blank"><img src="https://img.shields.io/badge/pkwesst@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
-<!--
-**pkwesst/pkwesst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>

@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=PKWESST&fontSize=90)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=364765&fontColor=FAF7F5&textBg=282829&height=300&section=header&text=PKWESST&fontSize=90)
   <br>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkwesst&show_icons=true&theme=graywhite)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkwesst&theme=graywhite)

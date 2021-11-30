@@ -4,6 +4,7 @@
   <br>
   
   <h2 align="left">Tech Stack</h2>
+  <br>
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="75" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" />  
@@ -19,8 +20,9 @@
   <hr>
   <br>
   
-  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=pkwesst@gmail.com" target="_blank"><img src="https://img.shields.io/badge/pkwesst@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://github.com/pkwesst" target="_blank"><img src="https://img.shields.io/badge/Github.com-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=pkwesst@gmail.com" target="_blank"><img src="https://img.shields.io/badge/pkwesst@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=pkwesst@naver.com" target="_blank"><img src="https://img.shields.io/badge/pkwesst@naver.com-mediumseagreen?style=for-the-badge&logo=naver&logoColor=white"/></a>
   
 </div>
 

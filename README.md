@@ -3,7 +3,7 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=364765&fontColor=FAF7F5&textBg=282829&height=300&desc=PARK%20SEO%20HYUN&descAlignY=65&section=header&text=PKWESST&fontSize=90)
   <br>
   
-  ![SeoHyun's github stats](https://github-readme-stats.vercel.app/api?username=SeoHyun&theme=graywhite&hide=prs)
+  ![Seohyun's github stats](https://github-readme-stats.vercel.app/api?username=Seohyun&theme=graywhite&hide=stars,prs)
 </div>
 <div align=center>
   

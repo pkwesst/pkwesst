@@ -2,8 +2,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=364765&fontColor=FAF7F5&textBg=282829&height=200&desc=PARK%20SEO%20HYUN&descAlignY=65&section=header&text=PKWESST&fontSize=70)  
   ![pkwesst's github stats](https://github-readme-stats.vercel.app/api?username=pkwesst&theme=graywhite&hide=stars,prs)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkwessts&layout=compact&theme=graywhite)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkwesst&layout=compact)]
 </div>
 
 <div align=center>  

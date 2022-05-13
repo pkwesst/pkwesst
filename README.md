@@ -2,12 +2,13 @@
 
   <table align=center>
     <tr>
-        <td  >
+        <td align="top" width="50%" >
        <img src="https://github-readme-stats.vercel.app/api?username=pkwesst&show_icons=true&count_private=true&hide_border=true&hide=stars,prs&theme=graywhite" align=center/>
      </td>    
    </tr>
   </table>
 
+<br/>  
 
 <div align=center>  
   <a href="https://pkwesst.github.io" target="_blank"><img src="https://img.shields.io/badge/GithubBlog-grey?style=for-the-badge&logo=github"/></a>

@@ -1,8 +1,8 @@
 <a href="https://pkwesst.github.io" target="_blank"><img src="https://github.com/pkwesst/pkwesst/blob/main/Readmelogo.webp"/></a>
 
-  <table align="center">
+  <table align=center>
     <tr>
-        <td>
+        <td  >
        <img src="https://github-readme-stats.vercel.app/api?username=pkwesst&show_icons=true&count_private=true&hide_border=true&hide=stars,prs&theme=graywhite" align=center/>
      </td>    
    </tr>

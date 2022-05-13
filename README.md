@@ -1,6 +1,6 @@
 <a href="https://pkwesst.github.io" target="_blank"><img src="https://github.com/pkwesst/pkwesst/blob/main/Readmelogo.webp"/></a>
 
-<p align="justify">Github Stats</p>
+<center>Github Stats</center>
 
   <table align="center">
     <tr>

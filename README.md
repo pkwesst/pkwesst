@@ -3,8 +3,8 @@
 ## Github Stats  
 <table>
   <tr>
-    <td align="top" width="30%">
-      <img src="https://github-readme-stats.vercel.app/api?username=pkwesst&show_icons=true&count_private=true&hide_border=true&hide=stars,prs&theme=graywhite" align="left" style="width: 100%" />
+    <td align="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=pkwesst&show_icons=true&count_private=true&hide_border=true&hide=stars,prs&theme=graywhite" align="left" style="width: 40%" />
     </td>
     
   </tr>

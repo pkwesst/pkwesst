@@ -1,7 +1,8 @@
 <a href="https://pkwesst.github.io" target="_blank"><img src="https://github.com/pkwesst/pkwesst/blob/main/Readmelogo.webp"/></a>
 
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=pkwesst&theme=vue&date_format=M%20j%5B%2C%20Y%5D" style="margin: 0 auto"/>
+<p align="center" width="100%">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=pkwesst&theme=vue&date_format=M%20j%5B%2C%20Y%5D"/>
+</p>
 
 <br/>  
 

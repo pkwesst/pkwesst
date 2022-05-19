@@ -1,12 +1,13 @@
 <a href="https://pkwesst.github.io" target="_blank"><img src="https://github.com/pkwesst/pkwesst/blob/main/Readmelogo.webp"/></a>
 
-  <table align=center>
-    <tr>
-        <td>
-       <img src="https://github-readme-stats.vercel.app/api?username=pkwesst&show_icons=true&count_private=true&hide_border=true&hide=stars,prs&theme=graywhite" align=center/>
-     </td>    
-   </tr>
-  </table>
+<table align="center">
+  <tr>
+    <td>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pkwesst&theme=vue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+    </td>
+  </tr>
+</table>
 
 <br/>  
 

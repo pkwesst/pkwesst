@@ -1,8 +1,16 @@
 <a href="https://pkwesst.github.io" target="_blank"><img src="https://github.com/pkwesst/pkwesst/blob/main/Readmelogo.webp"/></a>
 
-<p align="center" width="100%">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=pkwesst&theme=vue&date_format=M%20j%5B%2C%20Y%5D"/>
-</p>
+## Github Stats  
+
+<table align="center"><tr><td align="top" width="50%">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pkwesst&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</td><td align="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkwesst&hide=java&exclude_repo=Python,pkwesst.github.io&hide_border=true&layout=compact" align="right" style="width: 100%" />
+
+</td></tr></table>  
 
 <br/>  
 

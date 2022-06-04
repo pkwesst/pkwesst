@@ -1,4 +1,4 @@
-<a href="https://pkwesst.github.io" target="_blank"><img src="https://github.com/pkwesst/pkwesst/blob/main/Readmelogo.webp"/></a>
+<a href="https://pkwesst.github.io/portfolio/" target="_blank"><img src="https://github.com/pkwesst/pkwesst/blob/main/Readmelogo.webp"/></a>
 
 ## Github Stats  
 
